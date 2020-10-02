@@ -8,3 +8,4 @@ print("5.",curr/0.67,'yen',"(Japan)")
 print("6.",curr/1.10,'ruble',"(Russia)")
 print("7.",curr/0.40,'srilankanrupees',"(Srilanka)")
 print("8.",curr/51.99,'singapordollar',"(Singapor)")
+#only for Indian Rupees
